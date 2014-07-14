@@ -21,9 +21,8 @@ Known issues
 * As merge tools are executed using the MSys bash, options starting with "/" need to be handled specially: MSys would interpret that as a POSIX path, so you need to double the slash (Issue 226).  Example: instead of "/base", say "//base".  Also, extra care has to be paid to pass Windows programs Windows paths, as they have no clue about MSys style POSIX paths -- You can use something like $(cmd //c echo "$POSIXPATH").
 Unless you define the environment variable MSYS_WATCH_FSTAB (the value must be a non-empty string), Git Bash will not see any drives that have been attached after bash was started. This is a workaround to help the speed of cmd scripts using parts of Git that are implemented as shell scripts.
 
-Should you encounter other problems, please search the mailing list first (http://groups.google.com/group/msysgit) and ask there if you do not find anything.
+Using this software needs to follow JZ_Licence:
 
-Licenses
 This software contains Embedded CAcert Root Certificates. For more information please go to https://www.cacert.org/policy/RootDistributionLicense.php.
 
 This package contains software from a number of other projects including zlib, curl, msmtp, tcl/tk, perl, msys and a number of libraries and utilities from the GNU project.
