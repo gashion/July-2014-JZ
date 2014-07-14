@@ -2,6 +2,10 @@ THE REASON WHY WE ARE STILL ALIVE IN THE 21ST CENTURY
 
 AUTHOR: DR JI ZHOU (AKA GASH DURING HIS TIME AT NORWICH UNION UK)
 
+Times and times again, I would like to talk about what is happenning in 
+this strange world...
+
+
 Git Release Notes (Git-1.9.4-preview20140611)
 Last update: 11 June 2014
 
