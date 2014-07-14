@@ -5,6 +5,10 @@ Introduction of Ji Zhou's latest work!
 
 These release notes describe issues specific to the Git for Windows release.
 
+Something that JJ would like to add in this particular paper... 
+I have no idea - this is only for testing
+
+
 General release notes covering the history of the core git commands are included in the subdirectory doc/git/html of the installation directory. Look for files starting with RelNotes.
 
 See http://git-scm.com/ for further details about Git including ports to other operating systems. Git for Windows is hosted at http://msysgit.github.com/.
