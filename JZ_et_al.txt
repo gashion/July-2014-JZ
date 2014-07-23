@@ -7,7 +7,8 @@ this strange world...
 
 
 Git Release Notes (Git-1.9.4-preview20140611)
-Last update: 11 June 2014
+
+Last update: 23rd July 2014
 
 Introduction of Ji Zhou's latest work!
 
